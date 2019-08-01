@@ -15,4 +15,6 @@ $ aws lambda invoke --function-name CreateThumbnail --invocation-type Event \
 --payload file://event.json outputfile.txt
 
 $ grunt lambda_invoke
+$ grunt lambda_package
+$ grunt lambda_deploy
 $ grunt deploy
