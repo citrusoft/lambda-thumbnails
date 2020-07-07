@@ -11,7 +11,7 @@
     "aws-sdk": "latest",
     "grunt": "0.4.*",
     "grunt-aws-lambda": "0.8.0",
-    "npm": "^2.8.3"
+    "npm": "^6.14.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
