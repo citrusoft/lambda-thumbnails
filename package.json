@@ -4,7 +4,7 @@
   "description": "Create a thumbnail for each image file that is uploaded to a bucket.",
   "main": "CreateThumbnail.js",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "gm": "^1.23.1"
   },
   "devDependencies": {
