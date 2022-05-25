@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "aws-sdk": "latest",
-    "grunt": "0.4.*",
+    "grunt": "1.5.*",
     "grunt-aws-lambda": "0.8.0",
     "npm": "^2.8.3"
   },
